@@ -1,0 +1,331 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background: url('https://hexcolorpedia.com/wp-content/themes/bootscore-5-child/solid.php?c=804af5') no-repeat center center/cover;
+    height: 825px;
+}
+/* Navigation Bar */
+#logo{
+    font-size: 22px;
+    font-weight: 600;
+    padding-right: 100px;
+}
+#login{
+    padding-left: 200px;
+    padding-right: 30px;
+}
+.navbar ul{
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat';
+}
+.navbar ul li{ 
+    list-style: none;
+    font-size: 15px;
+    color: aliceblue;
+    padding-top: 22px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#joinbtn{
+    margin-top: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: #FF7B52;
+    color: aliceblue;
+    border: 0px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+}
+#primary-text{
+    margin-top: 200px;
+    font-size: 60px;
+    color: aliceblue;
+    font-family: 'Montserrat';
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#secondary-text{
+    font-size: 20px;
+    color: aliceblue;
+    font-family:'Montserrat';
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 40px;
+}
+.btn-div{
+    display: flex;
+    justify-content: center;
+}
+.primary-btn{
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0px;
+    border-radius: 6px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+}
+#btn1{
+    background: #FF7B52;
+    color: aliceblue;
+}
+#btn2{
+    border: 2px solid;
+    border-color: #FF7B52;
+    background: none;
+    color: aliceblue;
+}
+.second-section{
+    background: url('https://color-hex.org/colors/26335d.png') no-repeat center center/cover;
+    height: 768px;
+}
+#text1{
+    padding-left: 195px;
+    padding-top: 100px;
+    color: #8D5CF6;
+    font-family: 'Montserrat';
+
+}
+.second-section h1{
+    padding-left: 195px;
+    padding-top: 10px;
+    color: aliceblue;
+    font-family: 'Montserrat';
+}
+#para{
+    padding-left: 195px;
+    padding-top: 10px;
+    color: aliceblue;
+    width: 550px;
+    font-family: 'Montserrat';
+}
+#boxes{
+    display: flex;
+    justify-content: center;
+}
+#boxes .box{
+    margin-top: 80px; 
+    width: 240px;
+    height: 290px;
+    padding: 20px;
+    background: #f2f2f2;
+    margin-bottom: 40px;
+}
+#boxes .box img{ 
+   height: 80px;
+   display: block;
+   border-radius: 10px;
+   margin: 20px;
+}
+.bx{
+    font-family: 'Montserrat';
+    padding: 10px;
+    font-size: 18px;
+}
+#boxes .box p{
+    font-family: 'Montserrat';
+    width: 100px;
+    padding: 20px;
+    font-size: 11px;
+    color: gray;
+} 
+#boxes #bx1st{
+    margin-left: 192px;
+    margin-right: 20px;
+}
+#boxes #bx2nd{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 150px;
+}
+#boxes #bx3rd{
+    margin-left: 20px;
+    margin-right: 20px;
+    background: #8D5CF6;
+    color: aliceblue;
+}
+#boxes #bx3rd p{
+    color: aliceblue;
+}
+#boxes #bx4th{
+    margin-left: 20px;
+    margin-right: 192px;
+    margin-top: 150px;
+}
+.third-section{
+    background: url('https://color-hex.org/colors/26335d.png') no-repeat center center/cover;
+    height: 1096px;
+}
+#text2{
+    padding-left: 195px;
+    padding-top: 100px;
+    color: #8D5CF6;
+    font-family: 'Montserrat';
+}
+.third-section h1{
+    padding-left: 195px;
+    padding-top: 10px;
+    color: aliceblue;
+    font-family: 'Montserrat';
+}
+#para2{
+    padding-left: 195px;
+    padding-top: 10px;
+    color: aliceblue;
+    width: 550px;
+    font-family: 'Montserrat';
+}
+#boxes2{
+    display: flex;
+    justify-content: center;
+}
+#boxes2 .box2{
+    margin-top: 120px;
+    margin-left: 30px;
+    margin-right: 10px;
+    width: 238px;
+    height: 602px;
+    background: #fffdfd;
+    margin-bottom: 20px;
+}
+#boxes2 .box2 img{ 
+    width: 238px;
+    height: 300px;
+    display: block;
+}
+.bx2{
+    font-family: 'Montserrat';
+    padding: 10px 25px 10px 25px;
+    font-size: 18px;
+}
+.bx2-1{
+    font-family: 'Montserrat';
+    padding: 25px 25px 10px 25px;
+    font-size: 14px;
+    color: #8D5CF6;
+}
+#boxes2 .box2 p{
+    font-family: 'Montserrat';
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 25px;
+    padding-right: 20px;
+    font-size: 14px;
+    color: gray;
+} 
+.rate{
+    display: flex;
+    justify-content: space-between;
+}
+.ratebtn{
+    border: 0px;
+    font-family: 'Montserrat';
+    border-radius: 20px;
+    background: #26335D;
+    color: aliceblue;
+    margin-top: 13px;
+    margin-right: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.price{
+    display: flex;
+}
+#boxes2 .box2 #dollar{
+    font-size: 16px;
+    color: lightgray;
+    padding-right: 5px;
+} 
+#boxes2 .box2 #sale{
+    font-size: 16px;
+    color:#FF7B52;
+    padding-left: 0px;
+} 
+#morebtn{
+    margin-top: 20px;
+    margin-left: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: none;
+    color:#8D5CF6;
+    border: 1px solid;
+    border-radius: 37px;
+    font-size: 15px;
+    font-family: 'Montserrat';
+}
+.fourth-section{
+    background: url('https://color-hex.org/colors/26335d.png') no-repeat center center/cover;
+    height: 805px;
+}
+#fourth{
+    color:aliceblue;
+    font-family: 'Montserrat';
+    float: left;
+    padding-top: 100px;
+}
+#fourth img{
+    padding-left: 195px;
+    padding-right: 190px;
+    float: left;
+    width: 532px;
+    height: 561px;
+}
+#fourth #text4{
+    font-size: 40px;
+    padding-top: 120px;
+}
+#fourth #text4-1{
+    padding-top: 35px;
+    padding-left: 400px;
+}
+#fourth #learnmore{
+    padding-top: 35px;
+    display: block;
+    color:#8D5CF6;
+    font-family: 'Montserrat';
+}
+.fifth-section{
+    background: url('https://color-hex.org/colors/26335d.png') no-repeat center center/cover;
+    height: 805px;
+}
+#fifth img{
+    padding-left: 195px;
+    padding-right: 190px;
+    float: right;
+    width: 508px;
+    height: 363px;
+}
+#fifth{
+    color:aliceblue;
+    font-family: 'Montserrat';
+    padding-top: 100px;
+    padding-left: 195px;
+}
+#fifth #text5{
+    font-size: 40px;
+    padding-top: 120px;
+}
+#fifth #text5-1{
+    padding-top: 35px;
+}
+#fifth #learnmore{
+    padding-top: 35px;
+    display: block;
+    color:#8D5CF6;
+    font-family: 'Montserrat';
+}
